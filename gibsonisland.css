@@ -1,0 +1,16 @@
+body {
+  background-image: url("http://giys.gibsonisland.com/wp-content/uploads/2010/05/IMG_4305.jpg");
+}
+
+
+* {
+  font-family: Georgia;
+}
+
+h1, p {
+  color: DarkSlateGray;
+}
+
+p {
+  font-size: 18px;
+}
